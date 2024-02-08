@@ -1,6 +1,6 @@
 # Task Description:
 
-# As part of this task, you are to create a series of Terraform scripts/modules that will provision the following Snowflake resources:
+As part of this task, you are to create a series of Terraform scripts/modules that will provision the following Snowflake resources:
 1. Warehouse: A compute warehouse suitable for processing queries and data manipulation tasks.
 2. Database: A dedicated database to house various schemas and tables.
 3. Schema: Within the database, create a specific schema intended for the tables.
@@ -9,8 +9,11 @@
 
 # Prerequisites
 Terraform Installation
+
 https://developer.hashicorp.com/terraform/install
+
 Snowflake Account creation
+
 https://signup.snowflake.com/
 
 # To use this  code
